@@ -1,0 +1,15 @@
+{
+  "name": "python-node-communicator",
+  "version": "1.0.0",
+  "description": "An express web server which fetches data from a python service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*",
+    "zerorpc": "*"
+  },
+  "author": "Saurav Biswas",
+  "license": "ISC"
+}
